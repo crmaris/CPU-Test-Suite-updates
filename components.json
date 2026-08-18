@@ -1,4 +1,20 @@
 {
   "schemaVersion": 1,
-  "apps": {}
+  "apps": {
+    "cpu-testing-suite": {
+      "version": "7.0.59.0",
+      "url": "https://github.com/crmaris/CPU-Test-Suite-updates/releases/download/cpu-testing-suite-7.0.59.0/cpu-testing-suite-7.0.59.0-setup.exe",
+      "sha256": "3EBBACE437850C4EC9D010455CF23D845CBC136F13ED8F5D136E321C2F77253A"
+    }
+  },
+  "releaseLedger": [
+    {
+      "version": "7.0.59.0",
+      "releaseTag": "cpu-testing-suite-7.0.59.0",
+      "assetName": "cpu-testing-suite-7.0.59.0-setup.exe",
+      "url": "https://github.com/crmaris/CPU-Test-Suite-updates/releases/download/cpu-testing-suite-7.0.59.0/cpu-testing-suite-7.0.59.0-setup.exe",
+      "sha256": "3EBBACE437850C4EC9D010455CF23D845CBC136F13ED8F5D136E321C2F77253A",
+      "bytes": 200806985
+    }
+  ]
 }
