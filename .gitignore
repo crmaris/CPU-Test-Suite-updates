@@ -1,0 +1,13 @@
+
+# agent scratch — auto-pruned weekly by E:\All projects\Workspace Maintenance (owner 2026-09-04)
+.codex/
+.codex-*/
+.agents/
+.claude/worktrees/
+.worktrees/
+*-temp/
+*-temp-*/
+NuGetScratch/
+dotnet-temp*/
+msbuild-temp*/
+.build-tmp/
